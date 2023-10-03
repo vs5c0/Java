@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class Palindrome{
    
-    
+    //Palindrome a Number
 
         public static void square(int n){
             for(int i=1;i<n;i++){
