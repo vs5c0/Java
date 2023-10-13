@@ -1,6 +1,4 @@
 package AdvanceJava;
-
-
 //final keyword ---> is a non-access modifier one we can store the values it can't be change.
 //it is used to 
 //>>> Create constants 
