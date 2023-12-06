@@ -16,7 +16,7 @@ class Anonymous {
     }
     
     public void Sub(int m,int n)
-   {
+    {
          c=m;
          d=n;
          int cd=m-n;
